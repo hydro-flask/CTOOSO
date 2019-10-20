@@ -11,7 +11,7 @@ p {
   font-size: 20px; 
 }
 body {
-  background-image: url("https://github.com/hydro-flask/Random/blob/master/Gradient%202.jpeg");
+  background-image: url ("https://github.com/hydro-flask/Random/blob/master/Gradient%202.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
